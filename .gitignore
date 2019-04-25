@@ -1,0 +1,11 @@
+.Python
+
+/bin
+/lib
+/include
+/etc
+/share
+
+/ANN/data
+/ANN/__MACOSX
+/ANN/.ipynb_checkpoints
