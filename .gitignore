@@ -9,3 +9,11 @@
 /ANN/data
 /ANN/__MACOSX
 /ANN/.ipynb_checkpoints
+
+/CNN/data
+/CNN/__MACOSX
+/CNN/.ipynb_checkpoints
+
+/RNN/data
+/RNN/__MACOSX
+/RNN/.ipynb_checkpoints
